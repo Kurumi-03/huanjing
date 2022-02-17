@@ -40,7 +40,7 @@ public class GameData
     }
 
     public void SetDiamondCount(int diamondCount){
-        this.diamondCount += diamondCount;
+        this.diamondCount = diamondCount;
     }
 
     //获取方法
